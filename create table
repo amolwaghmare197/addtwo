@@ -1,1 +1,5 @@
 
+ CREATE TABLE newone(
+    -> name VARCHAR(29),
+    -> Lname VARCHAR(29),
+    -> ADDRESS VARCHAR(40));
